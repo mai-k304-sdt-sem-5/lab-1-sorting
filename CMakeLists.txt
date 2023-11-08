@@ -6,4 +6,4 @@ set(CMAKE_CXX_STANDARD 11) # Версия стандарта C++
 
 set(SOURCE_EXE src/main.cpp) # Установка переменной со списком исходников для исполняемого файла
 
-add_executable(lab-3-sorting ${SOURCE_EXE}) # Создаие исполняеого файла
+add_executable(lab-1-sorting ${SOURCE_EXE}) # Создаие исполняеого файла
